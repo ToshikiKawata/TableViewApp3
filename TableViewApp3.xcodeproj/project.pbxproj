@@ -16,6 +16,8 @@
 		97BAEF0D273192330060A049 /* TableViewApp3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BAEF0C273192330060A049 /* TableViewApp3Tests.swift */; };
 		97BAEF17273192330060A049 /* TableViewApp3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BAEF16273192330060A049 /* TableViewApp3UITests.swift */; };
 		97BAEF19273192330060A049 /* TableViewApp3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BAEF18273192330060A049 /* TableViewApp3UITestsLaunchTests.swift */; };
+		97BAEF26273199A60060A049 /* AddListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BAEF25273199A60060A049 /* AddListViewController.swift */; };
+		97BAEF2827319C680060A049 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BAEF2727319C680060A049 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		97BAEF12273192330060A049 /* TableViewApp3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewApp3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97BAEF16273192330060A049 /* TableViewApp3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewApp3UITests.swift; sourceTree = "<group>"; };
 		97BAEF18273192330060A049 /* TableViewApp3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewApp3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97BAEF25273199A60060A049 /* AddListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddListViewController.swift; sourceTree = "<group>"; };
+		97BAEF2727319C680060A049 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				97BAEEF5273192310060A049 /* AppDelegate.swift */,
 				97BAEEF7273192310060A049 /* SceneDelegate.swift */,
 				97BAEEF9273192310060A049 /* ViewController.swift */,
+				97BAEF2727319C680060A049 /* TableViewController.swift */,
+				97BAEF25273199A60060A049 /* AddListViewController.swift */,
 				97BAEEFB273192310060A049 /* Main.storyboard */,
 				97BAEEFE273192330060A049 /* Assets.xcassets */,
 				97BAEF00273192330060A049 /* LaunchScreen.storyboard */,
@@ -260,6 +266,8 @@
 			files = (
 				97BAEEFA273192310060A049 /* ViewController.swift in Sources */,
 				97BAEEF6273192310060A049 /* AppDelegate.swift in Sources */,
+				97BAEF26273199A60060A049 /* AddListViewController.swift in Sources */,
+				97BAEF2827319C680060A049 /* TableViewController.swift in Sources */,
 				97BAEEF8273192310060A049 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
